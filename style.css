@@ -106,7 +106,7 @@ a {
     }
 
     .wrapper {
-        height: 100vh;
+        min-height: 100vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -114,8 +114,6 @@ a {
     }
 
     .logo {
-        position: absolute;
-        top: 5%;
         width: 200px;
     }
 
@@ -154,6 +152,7 @@ a {
 
     .logo {
         margin: 10px 10px 0 0;
+        width: 100px;
     }
 
     .register {
