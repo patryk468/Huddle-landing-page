@@ -3,7 +3,7 @@ This is solution to the landing page with single introductory section solution f
 
 ### Screenshot
 <div align="center">
-  <img src="./images/desktopView.png" width="500" height="300">
+  <img src="./images/desktopView.png" width="600" height="400">
   <img src="./images/mobileView.png" width="400" height="500">
 </div>
 
